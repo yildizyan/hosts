@@ -7,3 +7,4 @@ I believe these lists will greatly help protect you from malicious sites in Goog
 
 # Listeler / Lists
 [Turkish Phishing List](https://github.com/yildizyan/hosts/blob/main/turkish-phishing-list)
+<br>[Turkish Spam List](https://github.com/yildizyan/hosts/blob/main/turkish-spam-list)
