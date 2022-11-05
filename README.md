@@ -37,7 +37,7 @@ filtrenin raw linkini yapıştırın ve değişiklikleri uygula talimatı verin.
 Windows
 ---
 C:\Windows\System32\drivers\etc yolunda bulunan hosts dosyasına erişin. Masaüstüne kopyalayın ve not defteriyle açın. İstediğiniz listenin içeriğinini
-tamamen kopyalayın ve not defteriyle açtığımız hosts'a yapıştırın. Hosts dosyasını önceki yaşadığı yere kopyalayın ve oradakiyle değiştirin.
+tamamen kopyalayın ve not defteriyle açtığımız hosts'a yapıştırın. Hosts dosyasını önceki yaşadığı yere kopyalayın ve oradakiyle değiştirin. Listeyi arada güncellemeyi unutmayın.
 
 Android
 ---
