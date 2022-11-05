@@ -31,7 +31,7 @@ Origin reklam ve izleyicileri engelleyen bir tarayıcı eklentisidir. Bu listeyi
 tamamlamış olursunuz.
 
 uBlock Origin ayarlarına ulaşın. Filtre listeleri menüsüne tıklayıp en aşağı inin ve özel>içe aktar kısmına erişin. Oraya istediğiniz
-filtrenin raw linkini yapıştırın ve değişikleri uygula talimatı verin. Bu kadar.
+filtrenin raw linkini yapıştırın ve değişiklikleri uygula talimatı verin. Bu kadar.
 
 Windows
 ---
