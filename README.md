@@ -6,4 +6,4 @@ I am creating a list of all kinds of unwanted, phishing, harmful sites that appe
 I believe these lists will greatly help protect you from malicious sites in Google search results.
 
 # Listeler / Lists
-Phishing: https://github.com/yildizyan/hosts/blob/main/turkish-phishing-list
+[Turkish Phishing List](https://github.com/yildizyan/hosts/blob/main/turkish-phishing-list)
