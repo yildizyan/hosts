@@ -1,0 +1,16 @@
+# Title: Turkish Phishing List
+#
+# Aim:   This list has been prepared especially for phishing sites
+#        that appear in Google search results and target Turkey.
+# -----------------------------------------------------------------
+# Homepage:    https://github.com/yildizyan/hosts/
+# Format:      Hosts
+# License:      
+# -----------------------------------------------------------------
+# Last update: 5 November 2022
+# -----------------------------------------------------------------
+
+# Hosts
+127.0.0.1 oregongames.org
+127.0.0.1 4lakescondo2.org
+127.0.0.1 will-a.com
