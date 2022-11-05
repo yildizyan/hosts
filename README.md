@@ -16,3 +16,4 @@ The sites in these lists are mostly undetected by security software and were cre
 [Turkish Phishing List](https://github.com/yildizyan/hosts/blob/main/turkish-phishing-list)
 <br>[Turkish Spam List](https://github.com/yildizyan/hosts/blob/main/turkish-spam-list)
 <br>[Turkish Bad Redirection List](https://github.com/yildizyan/hosts/blob/main/turkish-bad-redirection-list)
+<br>[Turkish All in One List (recommended)](https://github.com/yildizyan/hosts/blob/main/turkish-all-in-one-list)
