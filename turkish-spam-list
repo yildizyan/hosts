@@ -1,4 +1,4 @@
-# Title: Turkish Spam List
+# Title: Turkish Spam/Potentially Unwanted List
 #
 # Aim:   This list has been prepared especially for spam sites
 #        that appear in Google search results and target Turkey.
@@ -13,3 +13,6 @@
 # Hosts
 127.0.0.1 n858fk2jnikqordmst.com
 127.0.0.1 mostbet-tur261.com
+127.0.0.1 meetlovemate.top
+127.0.0.1 hepsibahis325.com
+127.0.0.1 xhqxmovies.com
