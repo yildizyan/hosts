@@ -7,14 +7,37 @@ Bu listelerdeki siteler güvenlik yazılımları tarafından <b>çoğunlukla far
 
 ***
 
-I am creating a list of all kinds of unwanted, phishing, harmful sites that appear in Google search results and target Turkey.
+I am creating a list of all kinds of unwanted/spam, phishing, malicious sites that appear in Google search results and target Turkey.
 I believe these lists will greatly help protect you from malicious sites in Google search results.
 
 The sites in these lists are <b>mostly undetected</b> by security software and were created <b>for this need</b>.
 
 
 # Listeler (Lists)
-[Turkish Phishing List](https://github.com/yildizyan/hosts/blob/main/turkish-phishing-list)
-<br>[Turkish Spam List](https://github.com/yildizyan/hosts/blob/main/turkish-spam-list)
-<br>[Turkish Bad Redirection List](https://github.com/yildizyan/hosts/blob/main/turkish-bad-redirection-list)
-<br>[Turkish All in One List (recommended)](https://github.com/yildizyan/hosts/blob/main/turkish-all-in-one-list)
+| Name | Raw link | Number of domains |
+| ---- | :------: | :---------------: |
+[Turkish Phishing List](https://github.com/yildizyan/hosts/blob/main/turkish-phishing-list) | [fly](https://raw.githubusercontent.com/yildizyan/hosts/main/turkish-phishing-list) | 54 |
+[Turkish Spam List](https://github.com/yildizyan/hosts/blob/main/turkish-spam-list) | [fly](https://raw.githubusercontent.com/yildizyan/hosts/main/turkish-spam-list) | 16 |
+[Turkish Bad Redirection List](https://github.com/yildizyan/hosts/blob/main/turkish-bad-redirection-list) | [fly](https://raw.githubusercontent.com/yildizyan/hosts/main/turkish-bad-redirection-list) | 106 |
+[Turkish All in One List (recommended)](https://github.com/yildizyan/hosts/blob/main/turkish-all-in-one-list) | [fly](https://raw.githubusercontent.com/yildizyan/hosts/main/turkish-phishing-list) | 176 |
+
+# Nasıl yapıyoruz?
+Liste veya listelerden (tavsiye olarak hepsini kapsayan All in One listesinden) kullanacağınız platforma göre şu şekilde yararlanabilirsiniz:
+
+Tarayıcı
+---
+Tarayıcıda kullanmayı düşünüyorsanız uBlock Origin eklentisiyle birlikte kullanmanız gayet efektiftir ve şiddetle tavsiye edilir. uBlock
+Origin reklam ve izleyicileri engelleyen bir tarayıcı eklentisidir. Bu listeyi ona tanıtarak eksik kaldığı yanlarını bir anlamda
+tamamlamış olursunuz.
+
+uBlock Origin ayarlarına ulaşın. Filtre listeleri menüsüne tıklayıp en aşağı inin ve özel>içe aktar kısmına erişin. Oraya istediğiniz
+filtrenin raw linkini yapıştırın ve değişikleri uygula talimatı verin. Bu kadar.
+
+Windows
+---
+C:\Windows\System32\drivers\etc yolunda bulunan hosts dosyasına erişin. Masaüstüne kopyalayın ve not defteriyle açın. İstediğiniz listenin içeriğinini
+tamamen kopyalayın ve not defteriyle açtığımız hosts'a yapıştırın. Hosts dosyasını önceki yaşadığı yere kopyalayın ve oradakiyle değiştirin.
+
+Android
+---
+AdAway uygulamasını indirin. Hosts source kısmından ilgilendiğiniz listenin raw linkini ekleyin. Adaway açık kaynak bir reklam engelleyici uygulamasıdır.
