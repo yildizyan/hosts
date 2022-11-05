@@ -1,0 +1,15 @@
+# Title: Turkish Spam List
+#
+# Aim:   This list has been prepared especially for spam sites
+#        that appear in Google search results and target Turkey.
+# -----------------------------------------------------------------
+# Homepage:    https://github.com/yildizyan/hosts/
+# Format:      Hosts
+# License:      
+# -----------------------------------------------------------------
+# Last update: 5 November 2022
+# -----------------------------------------------------------------
+
+# Hosts
+127.0.0.1 n858fk2jnikqordmst.com
+127.0.0.1 mostbet-tur261.com
