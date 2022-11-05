@@ -1,0 +1,15 @@
+# Title: Turkish Bad Redirection List
+#
+# Aim:   This list has been prepared especially for sites that
+#        redirect to bad sites.
+# -----------------------------------------------------------------
+# Homepage:    https://github.com/yildizyan/hosts/
+# Format:      Hosts
+# License:      
+# -----------------------------------------------------------------
+# Last update: 5 November 2022
+# -----------------------------------------------------------------
+
+# Hosts
+127.0.0.1 nxtpsh.top
+127.0.0.1 web.eujen.space
