@@ -41,4 +41,4 @@ tamamen kopyalayın ve not defteriyle açtığımız hosts'a yapıştırın. Hos
 
 Android
 ---
-AdAway uygulamasını indirin. Hosts source kısmından ilgilendiğiniz listenin raw linkini ekleyin. Adaway açık kaynak bir reklam engelleyici uygulamasıdır.
+AdAway uygulamasını indirip yükleyin. Hosts source kısmından ilgilendiğiniz listenin raw linkini ekleyin. AdAway açık kaynak bir reklam engelleyici uygulamasıdır.
