@@ -19,7 +19,7 @@ The sites in these lists are <b>mostly undetected</b> by security software and w
 [Turkish Phishing List](https://github.com/yildizyan/hosts/blob/main/turkish-phishing-list) | [fly](https://raw.githubusercontent.com/yildizyan/hosts/main/turkish-phishing-list) | 54 |
 [Turkish Spam List](https://github.com/yildizyan/hosts/blob/main/turkish-spam-list) | [fly](https://raw.githubusercontent.com/yildizyan/hosts/main/turkish-spam-list) | 16 |
 [Turkish Bad Redirection List](https://github.com/yildizyan/hosts/blob/main/turkish-bad-redirection-list) | [fly](https://raw.githubusercontent.com/yildizyan/hosts/main/turkish-bad-redirection-list) | 106 |
-[Turkish All in One List (recommended)](https://github.com/yildizyan/hosts/blob/main/turkish-all-in-one-list) | [fly](https://raw.githubusercontent.com/yildizyan/hosts/main/turkish-all-in-one-list) | 245 |
+[Turkish All in One List (recommended)](https://github.com/yildizyan/hosts/blob/main/turkish-all-in-one-list) | [fly](https://raw.githubusercontent.com/yildizyan/hosts/main/turkish-all-in-one-list) | 242 |
 
 <i>Note: Turkish All in One List is updated before the others and covers them all.</i>
 # Nasıl yapıyoruz?
