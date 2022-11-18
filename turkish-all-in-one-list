@@ -7,7 +7,7 @@
 # Format:      Hosts
 # License:     GNU General Public License v3.0
 # -----------------------------------------------------------------
-# Last update: 6 November 2022
+# Last update: 19 November 2022
 # -----------------------------------------------------------------
 
 # Hosts
@@ -29,7 +29,6 @@
 127.0.0.1 levitrares.com
 127.0.0.1 lin02.bid
 127.0.0.1 rdtk.io
-127.0.0.1 lencr.org
 127.0.0.1 repappcloud.com
 127.0.0.1 offermyvist.com
 127.0.0.1 globaltrkdom.com
@@ -113,8 +112,6 @@
 127.0.0.1 7.lan01.bid
 127.0.0.1 8.lan01.bid
 127.0.0.1 kodim.rdtk.io
-127.0.0.1 r3.o.lencr.org
-127.0.0.1 e1.o.lencr.org
 127.0.0.1 www.offermyvist.com
 127.0.0.1 www.globaltrkdom.com
 127.0.0.1 www.zyf03k.xyz
